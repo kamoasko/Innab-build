@@ -1,0 +1,1 @@
+import{j as t}from"./index-CHpVf3yn.js";const n=({title:i,about:e,corporative:s})=>{const o=s?"var(--color-main)":"initial";return t.jsx("div",{className:e?"sectionTitle stA":"sectionTitle",children:t.jsx("h2",{style:{color:o},children:i})})};export{n as default};

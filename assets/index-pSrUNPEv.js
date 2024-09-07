@@ -1,0 +1,1 @@
+import{R as c,j as s,Y as r}from"./index-CHpVf3yn.js";const i="_tab_2ygc5_1",l={tab:i},x=c.memo(({title:t,to:a,onClick:e,isActive:n})=>s.jsx("li",{children:s.jsxs(r,{to:a,className:`${l.tab} tab flexCenter ${n?"active":""}`,onClick:e,children:[s.jsx("span",{children:t}),s.jsx("div",{})]})}));export{x as default};
