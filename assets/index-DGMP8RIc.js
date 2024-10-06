@@ -1,0 +1,1 @@
+import{j as c}from"./index-6lSM2X7l.js";const r="_card_1bvsl_1",d="_cardDesc_1bvsl_29",n="_cardIcon_1bvsl_57",s={card:r,cardDesc:d,cardIcon:n},l=({desc:e,icon:a})=>c.jsxs("article",{className:`${s.card}  flex alignItemsCenter justifyContentBetween`,children:[c.jsx("div",{className:s.cardDesc,children:e}),c.jsx("div",{className:s.cardIcon,children:a})]});export{l as default};
