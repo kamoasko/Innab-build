@@ -1,0 +1,1 @@
+import{j as s,s as a,L as t}from"./index-Cw4JIZei.js";const i=({to:e,title:r,icon:l})=>s.jsx("article",{className:a.usefulCard,children:s.jsxs(t,{className:"flexCenter flexDirectionColumn",to:e,children:[l,s.jsx("h3",{children:r})]})});export{i as default};
